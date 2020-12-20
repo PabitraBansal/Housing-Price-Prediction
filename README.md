@@ -21,4 +21,4 @@ replaced the outliers with median of the feature.
 1. Housing_Median.ipynb
 2. Housing_Remove.ipynb
 
-The notebook cointain the outputs and graphs.
+The notebooks cointain the outputs and graphs.
